@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-👋 Hi, I'm Moses Mulumia a Full Stack Developer and Blockchain Dev. <br>💻 I build scalable web apps with modern tech stacks. <br>🧱 Onchain, I work with Solidity (EVM) and Cairo.<br>📚 I'm building a Learning Management System (LMS) using the MERN stack, integrated with StarkNet wallet support. Learners can seamlessly purchase courses directly from tutors, combining Web2 usability with Web3 ownership and payments
+👋 Hi, I'm Moses Mulumia a Full Stack Developer and Blockchain Dev. <br>💻 I build scalable web apps with modern tech stacks. <br>🧱 Onchain, I work with Solidity (EVM) and Cairo.<br>📚
 
 
 ## 🌐 Socials:
