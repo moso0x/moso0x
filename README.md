@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-👋 Hi, I'm Moses Mulumia a Full Stack Developer and Blockchain Dev. <br>💻 I build scalable web apps with modern tech stacks. <br>🧱 Onchain, I work with Solidity (EVM) and Cairo.<br>📚
+👋 Hi, I'm Moses Mulumia a Full Stack Developer and Blockchain Dev. <br>💻 I build scalable web apps with modern tech stacks. <br>🧱 Onchain, I work with Solidity (EVM) and Cairo.<br>
 
 
 ## 🌐 Socials:
