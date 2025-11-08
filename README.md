@@ -2,7 +2,7 @@
 # 💫 Whoami:
 Full-Stack Developer | Web3 & Blockchain Enthusiast
 
-🚀 Skilled in React, Next.js, TypeScript, Python, Django
+🚀 Skilled in React, Next.js, TypeScript, Postgres, Rust, Solidity, Cairo, Postrgess.
 
 🔗 Experience with Web3 integrations (ethers.js, wagmi, web3modal)
 
