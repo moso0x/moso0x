@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 Whoami:
-ull-Stack Developer | Web3 & Blockchain Enthusiast
+Full-Stack Developer | Web3 & Blockchain Enthusiast
 
 🚀 Skilled in React, Next.js, TypeScript, Python, Django
 🔗 Experience with Web3 integrations (ethers.js, wagmi, web3modal)
