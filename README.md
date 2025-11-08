@@ -1,8 +1,12 @@
 ## Hi there 👋
-# 💫 About Me:
-👋 Hi, I'm Moses Mulumia a Full Stack Developer and Blockchain Dev. <br>💻 I build scalable web apps with modern tech stacks. <br>🧱 Onchain, I work with Solidity (EVM) and Cairo.<br>
+# 💫 Whoami:
+ull-Stack Developer | Web3 & Blockchain Enthusiast
 
-
+🚀 Skilled in React, Next.js, TypeScript, Python, Django
+🔗 Experience with Web3 integrations (ethers.js, wagmi, web3modal)
+💰 Built crypto exchange dashboards with TRC20 USDT wallet support
+🔐 Expertise in authentication (JWT, Google Authenticator, 2FA)
+🐧 Strong Linux background (server setup, deployment, automation)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moses-mulumia-88596a272) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Fit-Advantage-1157) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Moso_Mulumia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mosesmulumia@gmail.com) 
 
